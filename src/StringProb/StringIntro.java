@@ -25,7 +25,7 @@ public class StringIntro{
                     break;
                 case 5 : p.numberPalindrome();
                     break;
-                case 6 : a.AnagramCheck();
+                case 6 : a.AnagramCheck(); //There are two methods for this. TO see the second method visit Anagram class
                 break;
                 default:
                     System.out.println("Please Select a valid option");
