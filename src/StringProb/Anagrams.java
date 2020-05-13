@@ -84,8 +84,4 @@ public class Anagrams {
         return true;
     }
 
-    public static void main(String []args){
-        Anagrams a= new Anagrams();
-        System.out.println(a.isAnagram());
-    }
 }
