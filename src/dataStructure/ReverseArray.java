@@ -1,5 +1,9 @@
 package dataStructure;
 
+/**
+ * * @author Kunal Raj Bhardwaj
+ */
+
 import java.util.*;
 
 public class ReverseArray {

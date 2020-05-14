@@ -1,8 +1,8 @@
-/*
- * Author : Kunal Raj Bhardwaj
-*/
-
 package StringProb;
+
+/**
+ * * @author Kunal Raj Bhardwaj
+ */
 
 import java.util.ArrayList;
 import java.util.Collections;

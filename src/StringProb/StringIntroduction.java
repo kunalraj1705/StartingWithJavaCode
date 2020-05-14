@@ -1,4 +1,9 @@
 package StringProb;
+
+/**
+ * * @author Kunal Raj Bhardwaj
+ */
+
 import java.util.Scanner;
 
 public class StringIntroduction {
