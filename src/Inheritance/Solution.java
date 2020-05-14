@@ -1,5 +1,9 @@
 package Inheritance;
 
+/**
+ * *  @author Kunal Raj Bhardwaj
+ */
+
 import java.util.*;
 
 class Person {
