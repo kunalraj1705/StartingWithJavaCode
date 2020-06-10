@@ -69,6 +69,13 @@ public class SinglyLinkedList {
         prev.next = temp.next;
     }
 
+    //Inserting a new Node at the front of the list
+    public void insertBegining(int newData){
+        Node newNode = new Node(newData);
+        newNode.next = head;
+        head = newNode;
+    }
+
     public static void main(String[] args){
         //Adding data to the linked list
         SinglyLinkedList sll = new SinglyLinkedList();
@@ -88,6 +95,11 @@ public class SinglyLinkedList {
         //Deleting node and displaying list when key is not in the list
         System.out.println("Deleting node and displaying list when key is not in the list.... Key = 6");
         sll.delete(6);
+        sll.display();
+
+        //Adding a node at the begining
+        System.out.println("Adding a node at the begining");
+        sll.insertBegining(3);
         sll.display();
     }
 }
