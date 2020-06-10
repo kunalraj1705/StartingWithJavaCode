@@ -80,7 +80,13 @@ public class SinglyLinkedList {
         //Displaying the List
         sll.display();
 
-        //Deleting node
+        //Deleting node and displaying list when key is present in the list
+        System.out.println("Deleting node and displaying list when key is present in the list.... Key = 3");
+        sll.delete(3);
+        sll.display();
+
+        //Deleting node and displaying list when key is not in the list
+        System.out.println("Deleting node and displaying list when key is not in the list.... Key = 6");
         sll.delete(6);
         sll.display();
     }
