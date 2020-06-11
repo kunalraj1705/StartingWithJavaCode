@@ -1,5 +1,9 @@
 package dataStructure.LinkedList;
 
+/**
+ * * @author Kunal Raj Bhardwaj
+ */
+
 public class SinglyLinkedList {
 
     //Creating a Node
