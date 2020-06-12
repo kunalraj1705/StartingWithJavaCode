@@ -1,7 +1,9 @@
 package IntegerProb;
+
 /**
  * * @author Kunal Raj Bhardwaj
  */
+
 import java.util.Arrays;
 import java.util.Scanner;
 

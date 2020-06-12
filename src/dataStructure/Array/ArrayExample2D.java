@@ -1,5 +1,9 @@
 package dataStructure.Array;
 
+/**
+ * * @author Kunal Raj Bhardwaj
+ */
+
 //Calculate the hourglass sum for every hourglass in Array, then print the maximum hourglass sum
 
 import java.util.ArrayList;

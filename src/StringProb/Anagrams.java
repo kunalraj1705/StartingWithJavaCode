@@ -4,7 +4,11 @@ package StringProb;
  * * @author Kunal Raj Bhardwaj
  */
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.Scanner;
 
 public class Anagrams {
     public void AnagramCheck(){
